@@ -1,0 +1,20 @@
+.container-cards{
+    width: 100%;
+    max-width: 100%;
+}
+.content-card{
+    display: flex;
+    max-width: 400px;
+    justify-content: center;
+    margin:auto;
+}
+.content-card h1{
+    width:100%;
+    min-width: 100%;
+}
+.container-avatar{
+    display: block;
+    width:100%;
+    min-width: 100%;
+    background: pink;
+}
